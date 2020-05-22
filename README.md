@@ -34,4 +34,3 @@ Caso queria adicionar qualquer tópico, conceito, conteúdo ou até mesmo corrig
 # Fontes
 
 Este 4noobs se baseia na [documentação oficial do Rails](https://guides.rubyonrails.org), usando como projeto prático o clássico Blog feito em Rails!
-

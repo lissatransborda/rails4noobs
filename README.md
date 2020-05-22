@@ -25,6 +25,8 @@ Por isso que neste 4noobs, iremos aprender sobre Ruby on Rails, ou simplesmente 
 2. [Estrutura de Pastas](contents/estrutura-pastas/README.md)
 3. [Hello World](contents/hello-world/README.md)
 
+---
+
 # Contribuição
 
 Caso queria adicionar qualquer tópico, conceito, conteúdo ou até mesmo corrigir um erro ortográfico, crie uma Issue ou uma Pull Request, qualquer contribuição é importante!

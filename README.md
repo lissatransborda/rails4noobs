@@ -14,14 +14,23 @@ Por isso que neste 4noobs, iremos aprender sobre Ruby on Rails, ou simplesmente 
 
 ## Pré Requisitos
 
+<<<<<<< HEAD
 1. Saiba o básico sobre Ruby, caso não saiba, aprenda no [ruby4noobs](https://github.com/edersonferreira/ruby4noobs)
 2. Saiba o básico de HTML5
 3. [Instalação do Ruby on Rails no Windows](contents/instalacao-windows/README.md)
 4. [Instalação do Ruby on Rails no Linux](contents/instalacao-linux/README.md)
+=======
+Saiba o básico sobre Ruby, caso não saiba, aprenda no [ruby4noobs](https://github.com/edersonferreira/ruby4noobs)
+
+[Instalação do Ruby on Rails no windows](contents/instalacao-windows/README.md)
+
+[Instalação do Ruby on Rails no Linux](contents/instalacao-linux/README.md)
+>>>>>>> de042bc08476a81ef2f818de418fc94082dc3118
 
 
 ## Conteúdos
 
+<<<<<<< HEAD
 1. [Criar um projeto com Rails](contents/criar-projeto/README.md)
 2. [Estrutura de Pastas](contents/estrutura-pastas/README.md)
 3. [Hello World](contents/hello-world/README.md)
@@ -33,3 +42,8 @@ Caso queria adicionar qualquer tópico, conceito, conteúdo ou até mesmo corrig
 # Fontes
 
 Este 4noobs se baseia na [documentação oficial do Rails](https://guides.rubyonrails.org), usando como projeto prático, o clássico blog em Rails.
+=======
+[Criar um projeto com Rails](contents/criar-projeto/README.md)
+[Estrutura de Pastas](contents/estrutura-pastas/README.md)
+[Hello World](contents/hello-world/README.md)
+>>>>>>> de042bc08476a81ef2f818de418fc94082dc3118

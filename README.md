@@ -18,9 +18,6 @@ Por isso que neste 4noobs, iremos aprender sobre Ruby on Rails, ou simplesmente 
 2. Saiba o básico de HTML5
 3. [Instalação do Ruby on Rails no Windows](contents/instalacao-windows/README.md)
 4. [Instalação do Ruby on Rails no Linux](contents/instalacao-linux/README.md)
-5. Saiba o básico sobre Ruby, caso não saiba, aprenda no [ruby4noobs](https://github.com/edersonferreira/ruby4noobs)
-6. [Instalação do Ruby on Rails no windows](contents/instalacao-windows/README.md)
-7. [Instalação do Ruby on Rails no Linux](contents/instalacao-linux/README.md)
 
 ## Conteúdos
 

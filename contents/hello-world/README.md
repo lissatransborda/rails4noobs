@@ -33,3 +33,7 @@ Lembrando que o ``get`` você não precisou escrever, pois ele foi colocado aqui
 Pronto, agora temos nossa página de Hello World pronta!
 
 ![Hello, World!](../../assets/hello-world/hello-world-1.png)
+
+## Proximo =>
+
+[Criando Resources](../criando-resources)

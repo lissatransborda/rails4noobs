@@ -25,8 +25,8 @@ Por isso que neste 4noobs, iremos aprender sobre Ruby on Rails, ou simplesmente 
 2. [Estrutura de Pastas](contents/estrutura-pastas/README.md)
 3. [Hello World](contents/hello-world/README.md)
 4. [Criando Resources](contents/criando-resources/README.md)
-5. [Inserindo Dados](../inserindo-dados/README.md)
-6. [Listando Dados](../listando-dados/README.md)
+5. [Inserindo Dados](contents/inserindo-dados/README.md)
+6. [Listando Dados](contents/listando-dados/README.md)
 
 ---
 

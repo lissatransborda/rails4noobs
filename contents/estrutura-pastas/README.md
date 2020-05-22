@@ -27,6 +27,6 @@ Cada uma dessas pastas e arquivos tem uma função específica, como configuraç
 
 A maioria dessas pastas e arquivos não serão usadas neste 4noobs, a lista cita TODAS por efeitos de conhecimento, você não precisa decorar, pois você irá aos poucos entender melhor a função de algumas pastas e arquivos citados acima.
 
-## Proximo
+## Proximo =>
 
 [Hello World no Rails](../hello-world/README.md)

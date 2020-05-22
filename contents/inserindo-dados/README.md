@@ -166,7 +166,7 @@ end
 
 Podemos ver que o código está igual, a diferença é que temos uma função chamada show, que procura um artigo passando como parâmetro o id dele, que é numérico.
 
-Agora vamos criar um arquivo em ``app/views/articles/show.html.erb``, que é a view do show, assim, poderemos mostrar o artigo que foi feito pelo usuário para o usuário, escreva este código nele:
+Agora vamos criar um arquivo em ``app/views/artigos/show.html.erb``, que é a view do show, assim, poderemos mostrar o artigo que foi feito pelo usuário para o usuário, escreva este código nele:
 
 ```ruby
 <p>

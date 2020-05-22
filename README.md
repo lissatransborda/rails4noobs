@@ -27,6 +27,7 @@ Por isso que neste 4noobs, iremos aprender sobre Ruby on Rails, ou simplesmente 
 4. [Criando Resources](contents/criando-resources/README.md)
 5. [Inserindo Dados](../inserindo-dados/README.md)
 6. [Listando Dados](../listando-dados/README.md)
+7. [Validação de dados](../validacao-dados/README.md)
 
 ---
 

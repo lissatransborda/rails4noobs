@@ -12,6 +12,8 @@ Rails tem como vantagens:
 
 Por isso que neste 4noobs, iremos aprender sobre Ruby on Rails, ou simplesmente Rails!
 
+![Logo](assets/logo.png)
+
 ## Pré Requisitos
 
 1. Saiba o básico sobre Ruby, caso não saiba, aprenda no [ruby4noobs](https://github.com/edersonferreira/ruby4noobs)
@@ -25,12 +27,11 @@ Por isso que neste 4noobs, iremos aprender sobre Ruby on Rails, ou simplesmente 
 2. [Estrutura de Pastas](contents/estrutura-pastas/README.md)
 3. [Hello World](contents/hello-world/README.md)
 4. [Criando Resources](contents/criando-resources/README.md)
-5. [Inserindo Dados](../inserindo-dados/README.md)
-6. [Listando Dados](../listando-dados/README.md)
-7. [Validação de dados](../validacao-dados/README.md)
 5. [Inserindo Dados](contents/inserindo-dados/README.md)
 6. [Listando Dados](contents/listando-dados/README.md)
-7. [Validação de dados](../validacao-dados/README.md)
+7. [Validação de dados](contents/validacao-dados/README.md)
+8. [Editando dados](contents/editando-dados/README.md)
+9. [Removendo Duplicação no Código](contents/duplicacao/README.md)
 
 ---
 

@@ -86,3 +86,7 @@ Agora vamos abrir ``apps/views/artigos/new.html.erb`` e vamos colocar uma verifi
 Pronto!, tente criar um artigo com o título com menos de 5 caracteres agora:
 
 ![Output 2](../../assets/validacao-dados/output-2.png)
+
+## Proximo =>
+
+[Editando Artigos](../editando-dados/README.md)

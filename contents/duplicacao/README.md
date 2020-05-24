@@ -60,3 +60,7 @@ view de edição:
 ```
 
 Pronto! modficamos e agora, a quantidade de código diminuiu, a repetição também, e a simplicidade aumentou, facilidade de escalar o código.
+
+## Proximo =>
+
+[Deletando Artigos](../deletando-dados/README.md)

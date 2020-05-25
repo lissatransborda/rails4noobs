@@ -144,3 +144,6 @@ Agora vamos alterar a view show novamente para mostrarmos os comentários acima 
 Pronto! agora podemos ver e adicionar novos comentários:
 
 ![output 1](../../assets/adicionando-comentarios/output-1.png)
+
+## Proximo =>
+[Removendo Duplicação no Código Novamente](contents/duplicacao2/README.md)

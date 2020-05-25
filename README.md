@@ -21,7 +21,7 @@ Por isso que neste 4noobs, iremos aprender sobre Ruby on Rails, ou simplesmente 
 3. [Instalação do Ruby on Rails no Windows](contents/instalacao-windows/README.md)
 4. [Instalação do Ruby on Rails no Linux](contents/instalacao-linux/README.md)
 
-## Conteúdos
+## Começo Rápido
 
 1. [Criar um projeto com Rails](contents/criar-projeto/README.md)
 2. [Estrutura de Pastas](contents/estrutura-pastas/README.md)
@@ -34,6 +34,8 @@ Por isso que neste 4noobs, iremos aprender sobre Ruby on Rails, ou simplesmente 
 9. [Removendo Duplicação no Código](contents/duplicacao/README.md)
 10. [Deletando Artigos](contents/deletando-dados/README.md)
 11. [Adicionando Comentários](contents/adicionando-comentarios/README.md)
+12. [Removendo Duplicação no Código Novamente](contents/duplicacao2/README.md)
+13. [Deletando Comentários](contents/deletando-comentarios/README.md)
 
 ----
 

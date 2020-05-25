@@ -38,6 +38,7 @@ Rails.application.routes.draw do
 
   resources :artigos do
     resources :comentarios
+  end
 
   root 'welcome#index'
 end

@@ -16,7 +16,7 @@ Por isso que neste 4noobs, iremos aprender sobre Ruby on Rails, ou simplesmente 
 
 ## Pré Requisitos
 
-1. Saiba o básico sobre Ruby, caso não saiba, aprenda no [ruby4noobs](https://github.com/edersonferreira/ruby4noobs)
+1. Saiba o básico sobre Ruby, caso não saiba, aprenda no [ruby4noobs](https://github.com/lissatransborda/ruby4noobs)
 2. Saiba o básico de HTML5
 3. [Instalação do Ruby on Rails no Windows](contents/instalacao-windows/README.md)
 4. [Instalação do Ruby on Rails no Linux](contents/instalacao-linux/README.md)
